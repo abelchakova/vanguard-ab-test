@@ -1,11 +1,9 @@
-# vanguard-ab-test
+# Vanguard Data Analysis
+Project week 4 and 5
 
 **Link to the Google Presentation** https://docs.google.com/presentation/d/128DoqeuZ-MgDq1mq9aH-VO09iQbc-dkC1BiGo90oAgc/edit?usp=sharing
 
 **Link to Trello** https://trello.com/b/FwU1pFdD/week4project
-
-# Vanguard Data Analysis
-Project week 4 and 5
 
 # Introduction
 Welcome to the Vanguard Project! This project focuses on analyzing and understanding client behaviors and demographics through various data analysis techniques. The primary goal is to draw insights from the data, identify trends, and improve client engagement strategies.
